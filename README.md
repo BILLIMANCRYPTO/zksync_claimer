@@ -9,3 +9,6 @@
 Вставить свою rpc 
 SEND_EXCHANGE = True - отправляем на адреса из файла sub_accs.txt
 POTOK = 10 - тут прописываем число аккаунтов обрабатываех одновременно 
+
+
+https://t.me/+9L-IZERDgG8wNzAy
